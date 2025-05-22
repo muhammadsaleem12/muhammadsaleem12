@@ -20,7 +20,7 @@
 
 ### 🧪 Projects
 
-🚨 **[Wireshark-Based Network Traffic Analysis](https://github.com/muhammadsaleem12/wireshark-network-analysis)**  
+🚨 **[Wireshark-Based Network Traffic Analysis](https://docs.google.com/document/d/1LJr9uO7skqqxhoN3ThbBCI08d8sePmks/edit?usp=sharing&ouid=108424203701445013428&rtpof=true&sd=true)**  
 A project focused on capturing and analyzing real-time network traffic using Wireshark to detect patterns, anomalies, and potential threats in data packets.
 
 ---
