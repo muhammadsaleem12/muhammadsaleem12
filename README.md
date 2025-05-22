@@ -35,7 +35,8 @@ A project focused on capturing and analyzing real-time network traffic using Wir
 
 ### 🌐 Let's Connect
 
-[![LinkedIn](www.linkedin.com/in/muhammad-saleem-channa-b92a32347)
+[LinkedIn](https://www.linkedin.com/in/muhammad-saleem-channa-b92a32347/)
+
 
 ---
 
