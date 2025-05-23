@@ -24,6 +24,14 @@
 A project focused on capturing and analyzing real-time network traffic using Wireshark to detect patterns, anomalies, and potential threats in data packets.
 
 ---
+## Certifications
+
+- [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/8cb0f256-879d-4105-9cd2-11207e9f3621/public_url) *(Click to verify)*  
+
+![Google Certificate](https://img.shields.io/badge/Google-Cybersecurity-blue?logo=google)
+
+
+---
 
 ### 📊 GitHub Stats
 
