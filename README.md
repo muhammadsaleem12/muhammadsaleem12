@@ -23,6 +23,12 @@
 🚨 **[Wireshark-Based Network Traffic Analysis](https://docs.google.com/document/d/1LJr9uO7skqqxhoN3ThbBCI08d8sePmks/edit?usp=sharing&ouid=108424203701445013428&rtpof=true&sd=true)**  
 A project focused on capturing and analyzing real-time network traffic using Wireshark to detect patterns, anomalies, and potential threats in data packets.
 
+
+### 🔍 Python Packet Sniffer
+A basic packet sniffer built using Python. It captures and displays network packets in real time using raw sockets.  
+🔗 [View on GitHub](https://github.com/muhammadsaleem12/CodeAlpha_Basic_Python_Network_Sniffer)
+
+
 ---
 ## Certifications
 
