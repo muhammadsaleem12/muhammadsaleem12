@@ -28,7 +28,7 @@ A project focused on capturing and analyzing real-time network traffic using Wir
 A basic packet sniffer built using Python. It captures and displays network packets in real time using raw sockets.  
 🔗 [View on GitHub](https://github.com/muhammadsaleem12/CodeAlpha_Basic_Python_Network_Sniffer)
 
-### Phishing Awareness presentation
+### 📊 Phishing Awareness presentation
 A cybersecurity presentation designed to educate users about phishing attacks, common tactics used by attackers, real-world examples, and practical steps to avoid falling victim. This project reflects my commitment to promoting cyber hygiene and raising awareness as part of my journey in ethical hacking and SOC analysis.
 🔗 [View on GitHub](https://github.com/muhammadsaleem12/CodeAlpha_phishing_awareness_presentation)
 
